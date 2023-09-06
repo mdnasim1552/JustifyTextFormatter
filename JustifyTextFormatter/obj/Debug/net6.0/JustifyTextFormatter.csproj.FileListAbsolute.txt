@@ -1,0 +1,15 @@
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\bin\Debug\net6.0\JustifyTextFormatter.exe
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\bin\Debug\net6.0\JustifyTextFormatter.deps.json
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\bin\Debug\net6.0\JustifyTextFormatter.runtimeconfig.json
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\bin\Debug\net6.0\JustifyTextFormatter.dll
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\bin\Debug\net6.0\JustifyTextFormatter.pdb
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.csproj.AssemblyReference.cache
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.AssemblyInfoInputs.cache
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.AssemblyInfo.cs
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.csproj.CoreCompileInputs.cache
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.dll
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\refint\JustifyTextFormatter.dll
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.pdb
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\JustifyTextFormatter.genruntimeconfig.cache
+C:\Users\mdnas\OneDrive\Desktop\DeleteFiles\JustifyTextFormatter\JustifyTextFormatter\obj\Debug\net6.0\ref\JustifyTextFormatter.dll
